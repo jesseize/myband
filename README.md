@@ -11,14 +11,14 @@ De website is enigszins te vergelijken met https://ultramusicfestival.com/ of ht
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
-| b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
+| b1-k1-w1 debriefing            | TODO | [Debriefing.pdf]            | Debriefing |
 | b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
+| b1-k1-w2 Sfeer impressie       | TODO | [MoodBoard.pdf]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
+| b1-k1-w2 FLowChart             | TODO | [Flowchart.pdf]                  | Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/jesseize/myband/blob/master/readme.md>
