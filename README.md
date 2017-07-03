@@ -1,5 +1,5 @@
 ## Martin Garrix
-https://23215.hosts.ma-cloud.nl/myband/ is een website van Jesse Izeboud waar gebruikers tickets kunnen kopen en muziek kunnen beluisteren van Martin Garrix bedoeld voor fans / geinterreseerde van Martin Garrix.
+http://23215.hosts.ma-cloud.nl/myband/ is een website van Jesse Izeboud waar gebruikers tickets kunnen kopen en muziek kunnen beluisteren van Martin Garrix bedoeld voor fans / geinterreseerde van Martin Garrix.
 De website is enigszins te vergelijken met https://ultramusicfestival.com/ of http://www.dimitrivegasandlikemike.com/ maar toch anders omdat er meer animaties en meer interactie met de site is.
 
 ### Uniek aan dit concept is: 
